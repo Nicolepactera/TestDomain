@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.domain.HomePageTest" duration-ms="50926" started-at="2017-01-12T04:40:30Z" finished-at="2017-01-12T04:41:21Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="50926" started-at="2017-01-12T04:40:30Z" finished-at="2017-01-12T04:41:21Z">
+      <class name="com.domain.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.domain.HomePageTest@96532d6]" name="setup" is-config="true" duration-ms="15679" started-at="2017-01-12T15:40:30Z" finished-at="2017-01-12T15:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testHomePageBuy()[pri:0, instance:com.domain.HomePageTest@96532d6]" name="testHomePageBuy" duration-ms="12936" started-at="2017-01-12T15:40:45Z" finished-at="2017-01-12T15:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageBuy -->
+        <test-method status="PASS" signature="testHomePageNewHomes()[pri:0, instance:com.domain.HomePageTest@96532d6]" name="testHomePageNewHomes" duration-ms="4654" started-at="2017-01-12T15:40:58Z" finished-at="2017-01-12T15:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageNewHomes -->
+        <test-method status="PASS" signature="testHomePageRent()[pri:0, instance:com.domain.HomePageTest@96532d6]" name="testHomePageRent" duration-ms="7045" started-at="2017-01-12T15:41:03Z" finished-at="2017-01-12T15:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageRent -->
+        <test-method status="PASS" signature="testHomePageSold()[pri:0, instance:com.domain.HomePageTest@96532d6]" name="testHomePageSold" duration-ms="7399" started-at="2017-01-12T15:41:10Z" finished-at="2017-01-12T15:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageSold -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.domain.HomePageTest@96532d6]" name="tearDown" is-config="true" duration-ms="3073" started-at="2017-01-12T15:41:18Z" finished-at="2017-01-12T15:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.domain.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.domain.HomePageTest -->
+</testng-results>

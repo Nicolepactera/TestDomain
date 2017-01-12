@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" verbose="10" name="nicole test suite" parallel="false">
+    <test verbose="2" name="Domain test"  >
+
+        <classes>
+            <class name="com.domain.HomePageTest"/>
+        </classes>
+
+    </test>
+</suite>
